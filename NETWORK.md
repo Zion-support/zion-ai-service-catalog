@@ -1,10 +1,16 @@
-# Zion AI Service Catalog
+# 🌐 Part of the Zion App Network
 
-AI service catalog manager for IT teams.
+**Zion AI Service Catalog** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-idp](https://github.com/Zion-support/zion-idp) · [zion-devops-automation](https://github.com/Zion-support/zion-devops-automation) · [managed-it](https://github.com/Zion-support/managed-it) · [zion-ai-it-asset-manager](https://github.com/Zion-support/zion-ai-it-asset-manager)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Zion AI Support Copilot](https://github.com/Zion-support/zion-ai-support-copilot)
+- [Zion AI Ticket Triage](https://github.com/Zion-support/zion-ai-ticket-triage)
+- [Zion AI SLA Breach Sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
